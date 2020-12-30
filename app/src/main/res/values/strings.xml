@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Live Attendance App</string>
+    <string name="hello_sign_in_your_account">Hello, Sign in Your Account</string>
+    <string name="string_email">string/email</string>
+    <string name="email" />
+    <string name="Email">Email</string>
+    <string name="Password">password</string>
+    <string name="Login">login</string>
 </resources>
